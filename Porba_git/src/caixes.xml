@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estil_caixes.css"?>
+<Frases>
+    <motivacio id="primera">Un hombre que no piensa por si mismo, no piensa en absoluto.  -Oscar Wilde.</motivacio>
+    <motivacio id="segona">La felicidad no es la ausencia de problemas; es la habilidad para tratar con ellos. -Steve Maraboli.</motivacio>
+    <motivacio id="tercera">Construye tus sueños o alguien más te contratará para construir los suyos.-Farrah Gray.</motivacio>
+</Frases>
